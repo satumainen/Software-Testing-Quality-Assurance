@@ -3,7 +3,7 @@
 
 ## Essays
 
-### Warm-up Essay: “The Future of the Testing Role” Lecture by James Bach
+### Warm-up Essay - “The Future of the Testing Role” Lecture by James Bach
 <p>In this short essay I reflect upon <a href=https://www.youtube.com/watch?v=c5821YeWico&ab_channel=PNSQC" target=_blank>James Bach's 2017 video lecture.</a></p>
 
 ### Essay 1 - Overview of Agile Testing
