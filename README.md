@@ -6,10 +6,10 @@
 ### Warm-up Essay: “The Future of the Testing Role” Lecture by James Bach
 <p>In this short essay I reflect upon <a href=https://www.youtube.com/watch?v=c5821YeWico&ab_channel=PNSQC" target=_blank>James Bach's 2017 video lecture.</a></p>
 
-### Essay 1: Overview of Agile Testing
+### Essay 1 - Overview of Agile Testing
 <p>In this essay I summarize key concepts afew chapters of Lisa Crispin's and Janet Gregory's book More Agile Testing (2014)</p>
 
-### Essay 2: What is Software Quality and why does it matter so much?
+### Essay 2 - What is Software Quality and why does it matter so much?
 <p>The software quality characteristics are consisely summarized, and the Finna web library is briefly analyzed.</p>
 
 ### Essay 3 – Quality Management
