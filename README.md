@@ -18,8 +18,8 @@
 ### Essay 4 – Testing AI-based Systems
 <p>In this essay, I explore and summarize the main findings in a systematic literature review of Validation Methods for AI/ML-powered Systems <a href="https://researchportal.helsinki.fi/en/publications/systematic-literature-review-of-validation-methods-for-ai-systems" target=_blank>(Myllyaho et al. 2021)</a></p>
 
-## Practical Assignments (and some Essays)
-<p>Compared to my Spring 2024 course in Software Testing at Åbo Akademi, this course offered me more insight into </p>
+## Exercises (and some Essays)
+<p>Compared to my Spring 2024 course in Software Testing at Åbo Akademi, this course offered me more insight into BDD, ET and SBTM.</p>
 
 ### Assignment 1 - Unit Testing
 <p>This assignment allowed me to revisit the white box theory I leanrt at Åbo Akademi.</p>
