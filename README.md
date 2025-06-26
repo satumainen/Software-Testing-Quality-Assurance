@@ -22,7 +22,7 @@
 <p>Compared to my Spring 2024 course in Software Testing at Åbo Akademi, this course offered me more insight into BDD, ET and SBTM.</p>
 
 ### Assignment 1 - Unit Testing
-<p>This assignment allowed me to revisit the white box theory I leanrt at Åbo Akademi.</p>
+<p>This assignment allowed me to revisit the white box theory I learnt at Åbo Akademi.</p>
 
 ### Assignment 2 - BDD
 <p>In this assignment, I got my first touch with Cucumber.</p>
