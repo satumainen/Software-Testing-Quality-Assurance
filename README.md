@@ -1,5 +1,6 @@
 # Software-Testing-Quality-Assurance
 <p>This 5 ECTS course in Software Testing and Quality Assurance course was completed in the spring of 2025. This course explored the different testing schools of thought and consisted of four assignments and multiple essays.</p>
+
 ## Essays
 
 <ul>
